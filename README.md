@@ -34,7 +34,7 @@ Apoiando empresas a transformarem dados brutos e descentralizados em pipelines a
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🏆 Projetos Recentes
 
 ### 🛒 1. Data Lakehouse E-commerce: Pipeline Medallion com PySpark & Power BI
 *Construção de uma infraestrutura robusta para processamento distribuído de Big Data utilizando dados reais de e-commerce.*

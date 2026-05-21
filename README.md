@@ -1,6 +1,6 @@
 # 🚀 Olá! Eu sou o Vitor Marques 🖐️  
 
-### 💡 Engenheiro de Dados | Desenvolvedor Full Stack | Data Specialist
+### 💡 Engenheiro de Dados | Analista de Dados
 
 Apoiando empresas a transformarem dados brutos e descentralizados em pipelines altamente escaláveis, governados e orientados à tomada de decisão estratégica.
 

@@ -59,7 +59,7 @@ Apoiando empresas a transformarem dados brutos e descentralizados em pipelines a
 
 Estou sempre aberto para discutir arquitetura de dados, novos projetos, trocar ideias técnicas ou oportunidades profissionais.
 
-* 📧 **E-mail:** [Seu e-mail aqui]
+* 📧 **E-mail:** [marque.vitor47@gmail.com]
 * 💼 **LinkedIn:** [vitor-marques](https://www.linkedin.com/in/vitor-marques-9199ab17a)
 
 ### *“Dados isolados são apenas registros. Tratados e arquitetados, transformam-se em poder de decisão.”* 📊🔥
